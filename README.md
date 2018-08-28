@@ -28,6 +28,6 @@ Read the article for the details.
 Action can be one of `stop` or `start`.
 
 # License
-The source code is released under Apache 2 License.
+The source code is released under MIT License.
 
 Check [LICENSE](https://github.com/kumardharm/AWS-EC2-Start-Stop-by-ID/edit/master/LICENSE) file for more information.

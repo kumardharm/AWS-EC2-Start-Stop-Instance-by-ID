@@ -12,7 +12,7 @@ $ npm install
 $ zip -r EC2_Start_Stop.zip *
 ```
 
-####Note: Some time your node terminal will through an error zip is not recognised command then manually go inside the code folder and select all file and then zip it.
+#### Note: Some time your node terminal will through an error zip is not recognised command then manually go inside the code folder and select all file and then zip it.
 
 Read the article for the details.
 

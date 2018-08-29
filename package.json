@@ -1,5 +1,5 @@
 {
-  "name": "rds-lambda-stop-start",
+  "name": "ec2-lambda-stop-start",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

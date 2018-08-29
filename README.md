@@ -15,7 +15,7 @@ $ zip -r EC2_Start_Stop.zip *
 #### Note: Some time your node terminal will through an error zip is not recognised command then manually go inside the code folder and select all file and then zip it.
 
 # Instructions
-- IAM Roles (https://github.com/kumardharm/AWS-EC2-Start-Stop-Instance-by-ID/blob/master/README.md#IAM Roles required for Lambda Function) 
+- [IAM Roles] (https://github.com/kumardharm/AWS-EC2-Start-Stop-Instance-by-ID/blob/master/README.md#IAM-Roles-required-for-Lambda-Function) 
 - [Steps](https://github.com/kumardharm/AWS-EC2-Start-Stop-Instance-by-ID/blob/master/README.md#steps)
 
 ### IAM Roles required for Lambda Function:
